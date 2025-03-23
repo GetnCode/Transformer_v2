@@ -1,5 +1,5 @@
 """
-Transformer Language Model Implementation
+Transformer Language Model Implementation by Joshua Getner
 
 This module implements a configurable transformer-based language model with
 state-of-the-art features including Rotary Position Embeddings (RoPE),

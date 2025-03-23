@@ -17,6 +17,8 @@ A flexible and efficient transformer-based language model implementation with st
 
 ## Installation
 
+[git clone ](https://github.com/GetnCode/Transformer-v2.git)
+
 ### Requirements
 
 - Python 3.8+
